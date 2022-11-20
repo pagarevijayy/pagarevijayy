@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: Javascript based projects
 - 📫 How to reach me: DMs @pagarevijayy
 
-This is a quick setup, will curate it properly later.
+This is a quick readme setup, will curate it properly later.
 
 <!---
 pagarevijayy/pagarevijayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
