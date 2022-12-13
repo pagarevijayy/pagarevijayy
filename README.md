@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vijay Pagare
 - 👀 I’m interested in: Software Engineering
 - 🌱 I’m currently learning: DSA
-- 💞️ I’m looking to collaborate on: Javascript based projects
+- 💞️ I’m looking to collaborate on: Javascript projects
 - 📫 How to reach me: DMs @pagarevijayy
 
 <!---
