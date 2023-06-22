@@ -1,11 +1,19 @@
 Hi 👋 My name is Vijay Pagare!
 ==============================
 
-I've been coding and working as a software engineer for almost 4 years now. I'm a high agency individual who loves to build products using javascript.
+I'm a professional software engineer with 4+ years of experience in product building and overall software development activities. 
 
-- 🌱  I’m currently strengthening engineering skills
-- 🌍  I'm based in Mumbai, India (prefer working remote)
-- 🤝  I'm open to collaborating on fun projects or some cool stuff
+I'm a passionate individual who loves frontend and javascript the language... Also, I have a keen interest in early-stage startups, venture capitalism, product ideation, growth and delivery. 
+
+Proven track record of building high-quality web applications. 
+
+A high agency contributor who likes to own the systems/processes/products end-to-end.
+
+Ex fin-tech, education domain
+
+- 🌱  I’m currently strengthening my engineering skills
+- 🌍  I'm based in Mumbai, India (prefer working remotely)
+- 🤝  I'm open to collaborating on javascript/frontend projects or some cool stuff
 - 📫  You can reach out to me on Linkedin or Twitter [@pagarevijayy](https://twitter.com/pagarevijayy)
 
 ### Skills
