@@ -9,7 +9,7 @@ I'm a passionate individual who loves frontend and javascript the language... Al
 
 A high agency contributor who likes to own the systems/processes/products end-to-end. Agile, dependable individual who takes ownership, learns fast and is a resourceful team player. Good at organizational skills and paying attention to detail. Have assumed leadership responsibilities in the past. 
 
-Ex fin-tech, education. Feel free to drop a message or a simple Hii! :)
+Have worked in Data Analytics, Fin-tech, and Education Startups. Feel free to drop a message or a simple Hii! :)
 
 Open for opportunities.
 
