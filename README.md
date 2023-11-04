@@ -5,19 +5,11 @@ Heyaa 👋 I'm a professional software engineer with 4+ years of experience in b
 
 Proven ability to work independently and as part of a team in fast-moving, resource-constraint environments where short turnaround times are a norm. 
 
-Exceptional at leveraging interpersonal skills to facilitate a collaborative relationship among cross-functional teams to get the work done. 
+Exceptional at leveraging interpersonal skills to facilitate a collaborative relationship among cross-functional teams to get the work done. Excellent problem-solver with an aptitude for troubleshooting and the ability to quickly master new skills, technology, or a role.
 
-Excellent problem-solver with an aptitude for troubleshooting and the ability to quickly master new skills, technology, or a role.
+I'm a passionate individual who loves frontend and javascript the language... Also, I have a keen interest in early-stage startups, venture capitalism, product ideation, growth and delivery
 
-I'm a passionate individual who loves frontend and javascript the language...
-
-Also, I have a keen interest in early-stage startups, venture capitalism, product ideation, growth and delivery
-
-A high agency contributor who likes to own the systems/processes/products end-to-end.
-
-Agile, dependable individual who takes ownership, learns fast and is a resourceful team player. 
-
-Good at organizational skills and paying attention to detail. Have assumed leadership responsibilities in the past. 
+A high agency contributor who likes to own the systems/processes/products end-to-end. Agile, dependable individual who takes ownership, learns fast and is a resourceful team player. Good at organizational skills and paying attention to detail. Have assumed leadership responsibilities in the past. 
 
 Ex fin-tech, education 
 
@@ -30,7 +22,7 @@ Open for opportunities.
 - 🌱  I’m currently working on my engineering skills
 - 🌍  I'm based in Mumbai, India
 - 🤝  I'm open to frontend software engineering job opportunities 
-- 📫  You can reach out to me on [Linkedin](https://www.linkedin.com/in/pagarevijayy/) or Twitter [@pagarevijayy](https://twitter.com/pagarevijayy)
+- 📫  You can reach out to me on [Linkedin](https://www.linkedin.com/in/pagarevijayy/) or [Twitter](https://twitter.com/pagarevijayy)
 - 📨  CV - [Vijay Pagare](https://drive.google.com/file/d/1avX9X8ZDIVd_Vz1zJanpbO5Z-0CaaJWr/view) 
 
 ### Skills
