@@ -1,9 +1,7 @@
 Hi 👋 My name is Vijay Pagare!
 ==============================
 
-Heyaa 👋 I'm a professional software engineer with 4+ years of experience in building and maintaining high-quality (B2B) saas products and web applications. 
-
-Proven ability to work independently and as part of a team in fast-moving, resource-constraint environments where short turnaround times are a norm. 
+Heyaa 👋 I'm a professional software engineer with 4+ years of experience in building and maintaining high-quality (B2B) saas products and web applications. Proven ability to work independently and as part of a team in fast-moving, resource-constraint environments where short turnaround times are a norm. 
 
 Exceptional at leveraging interpersonal skills to facilitate a collaborative relationship among cross-functional teams to get the work done. Excellent problem-solver with an aptitude for troubleshooting and the ability to quickly master new skills, technology, or a role.
 
