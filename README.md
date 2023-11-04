@@ -1,20 +1,37 @@
 Hi 👋 My name is Vijay Pagare!
 ==============================
 
-I'm a professional software engineer with 4+ years of experience in product building and overall software development activities. 
+Heyaa 👋 I'm a professional software engineer with 4+ years of experience in building and maintaining high-quality (B2B) saas products and web applications. 
 
-I'm a passionate individual who loves frontend and javascript the language... Also, I have a keen interest in early-stage startups, venture capitalism, product ideation, growth and delivery. 
+Proven ability to work independently and as part of a team in fast-moving, resource-constraint environments where short turnaround times are a norm. 
 
-Proven track record of building high-quality web applications. 
+Exceptional at leveraging interpersonal skills to facilitate a collaborative relationship among cross-functional teams to get the work done. 
+
+Excellent problem-solver with an aptitude for troubleshooting and the ability to quickly master new skills, technology, or a role.
+
+I'm a passionate individual who loves frontend and javascript the language...
+
+Also, I have a keen interest in early-stage startups, venture capitalism, product ideation, growth and delivery
 
 A high agency contributor who likes to own the systems/processes/products end-to-end.
 
-Ex fin-tech, education domain
+Agile, dependable individual who takes ownership, learns fast and is a resourceful team player. 
 
-- 🌱  I’m currently strengthening my engineering skills
-- 🌍  I'm based in Mumbai, India (prefer working remotely)
-- 🤝  I'm open to collaborating on javascript/frontend projects or some cool stuff
-- 📫  You can reach out to me on Linkedin or Twitter [@pagarevijayy](https://twitter.com/pagarevijayy)
+Good at organizational skills and paying attention to detail. Have assumed leadership responsibilities in the past. 
+
+Ex fin-tech, education 
+
+Medium and Twitter: @pagarevijayy
+
+Feel free to drop a message or a simple Hii! :)
+
+Open for opportunities.
+
+- 🌱  I’m currently working on my engineering skills
+- 🌍  I'm based in Mumbai, India
+- 🤝  I'm open to frontend software engineering job opportunities 
+- 📫  You can reach out to me on [Linkedin](https://www.linkedin.com/in/pagarevijayy/) or Twitter [@pagarevijayy](https://twitter.com/pagarevijayy)
+- 📨  CV - [Vijay Pagare](https://drive.google.com/file/d/1avX9X8ZDIVd_Vz1zJanpbO5Z-0CaaJWr/view) 
 
 ### Skills
 
