@@ -1,23 +1,19 @@
 Hi 👋 My name is Vijay Pagare!
 ==============================
 
-Heyaa 👋 I'm a professional software engineer with 4+ years of experience in building and maintaining high-quality (B2B) saas products and web applications. Proven ability to work independently and as part of a team in fast-moving, resource-constraint environments where short turnaround times are a norm. 
+Heyaa 👋 I'm a frontend-focused Software Engineer with 6 years of experience building scalable, accessible, and high performing B2B SaaS applications. Adept in React, Angular, AEM, and data visualisation libraries. 
 
-Exceptional at leveraging interpersonal skills to facilitate a collaborative relationship among cross-functional teams to get the work done. Excellent problem-solver with an aptitude for troubleshooting and the ability to quickly master new skills, technology, or a role.
+Proven track record of driving UI/UX enhancements, architectural overhauls, and performance optimisations across diverse industries including analytics, healthcare, and fintech. 
 
-I'm a passionate individual who loves frontend and javascript the language... Also, I have a keen interest in early-stage startups, venture capitalism, product ideation, growth and delivery.
+Recognized for leadership, problem-solving, and cross-functional collaboration.
 
-A high agency contributor who likes to own the systems/processes/products end-to-end. Agile, dependable individual who takes ownership, learns fast and is a resourceful team player. Good at organizational skills and paying attention to detail. Have assumed leadership responsibilities in the past. 
+DM for collabs!
 
-Have worked at Data Analytics, Fin-tech, and Education Startups. Feel free to drop a message or a simple Hii! :)
-
-Open for opportunities.
-
-- 🌱  I’m currently working on my engineering skills
+- 🌱  I’m currently working on enhacing my engineering skills
 - 🌍  I'm based in Mumbai, India
-- 🤝  I'm open to frontend software engineering job opportunities 
+- 🤝  I'm open to software engineering job opportunities 
 - 📫  You can reach out to me on [Linkedin](https://www.linkedin.com/in/pagarevijayy/) or [Twitter](https://twitter.com/pagarevijayy)
-- 📨  CV - [Vijay Pagare](https://drive.google.com/file/d/1avX9X8ZDIVd_Vz1zJanpbO5Z-0CaaJWr/view) 
+- 📨  CV - [Vijay Pagare](https://drive.google.com/file/d/1eG4x3tYbk4Ee24_Zbak6wpyY42WtIa07/view) 
 
 ### Skills
 
