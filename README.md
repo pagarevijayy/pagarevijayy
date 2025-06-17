@@ -1,7 +1,7 @@
 Hi 👋 My name is Vijay Pagare!
 ==============================
 
-Heyaa 👋 I'm a frontend-focused Software Engineer with 6 years of experience building scalable, accessible, and high performing B2B SaaS applications. Adept in React, Angular, AEM, and data visualisation libraries. 
+I'm a frontend-focused Software Engineer with 6 years of experience building scalable, accessible, and high performing B2B SaaS applications. Adept in React, Angular, AEM, and data visualisation libraries. 
 
 Proven track record of driving UI/UX enhancements, architectural overhauls, and performance optimisations across diverse industries including analytics, healthcare, and fintech. 
 
