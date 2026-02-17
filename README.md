@@ -1,35 +1,42 @@
-Hi 👋 My name is Vijay Pagare!
-==============================
+Hi 👋 I'm Vijay Pagare
+======================
 
-I'm a frontend-focused Software Engineer with 6 years of experience building scalable, accessible, and high performing B2B SaaS applications. Adept in React, Angular, AEM, and data visualisation libraries. 
+Senior Software Engineer focused on building AI-enabled, high-performance web systems that power real-world products.
 
-Proven track record of driving UI/UX enhancements, architectural overhauls, and performance optimisations across diverse industries including analytics, healthcare, and fintech. 
+With 6+ years of experience, I specialize in crafting scalable, accessible B2B SaaS platforms with strong UX foundations and performance at their core. My work spans React, Angular, AEM, and data-intensive interfaces — leading architectural improvements, UI/UX modernization, and measurable performance gains across analytics, healthcare, and fintech domains.
 
-Recognized for leadership, problem-solving, and cross-functional collaboration.
+I care deeply about product thinking — not just shipping features, but improving user journeys, system efficiency, and business outcomes.
 
-DM for collabs!
+Alongside my full-time role, I’m pursuing an MTech at BITS Pilani, expanding my focus toward AI-driven systems and scalable web architecture.
 
-- 🌱  I’m currently working on enhacing my engineering skills
-- 🌍  I'm based in Mumbai, India
-- 🤝  I'm open to software engineering job opportunities 
-- 📫  You can reach out to me on [Linkedin](https://www.linkedin.com/in/pagarevijayy/) or [Twitter](https://twitter.com/pagarevijayy)
-- 📨  CV - [Vijay Pagare](https://drive.google.com/file/d/1eG4x3tYbk4Ee24_Zbak6wpyY42WtIa07/view) 
+- 🌱  Currently deepening my expertise in high-performance web architecture & AI-enabled systems
+- 🌍  Based in Mumbai, India
+- 🤝  Open to impactful software engineering opportunities
+- 📫  Reach me on [LinkedIn](https://www.linkedin.com/in/pagarevijayy/) or [Twitter](https://twitter.com/pagarevijayy)
+- 📨  CV - [Vijay Pagare](https://www.vijaypagare.in/resume)
 
-### Skills
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
+### What I Focus On
 
-### Socials
+- ⚡ High-performance web systems (Core Web Vitals, scalability, optimization)
+- 🧠 Product-focused engineering & UX-first development
+- 🤖 AI-enabled interfaces & intelligent web applications
+- 🏗 Clean architecture & maintainable frontend systems
 
-<p align="left"> <a href="https://www.github.com/pagarevijayy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://leetcode.com/pagarevijayy" target="_blank" rel="noreferrer"><img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/pagarevijayy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@pagarevijayy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pagarevijayy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+---
+
+### Core Strengths
+
+#### Technical Expertise
+JavaScript • TypeScript • React • Next.js • Angular (2+) • Hugo • TailwindCSS • HTML • CSS/SCSS • Material UI • Ant Design • Redux • RxJS • Webpack • Vite • Node.js (REST APIs) • Microservices • Apache ECharts • D3.js • GSAP • WebSockets • AWS • Vercel • PWA • AEM (Frontend) • Git
+
+#### Engineering Strengths
+Performance Optimization • Debugging Complex Systems • Scalable Component Architecture • UI/UX Sensitivity • Technical Strategy • Planning & Estimation • Client Expectation Management & Stakeholder Communication  
+
+#### Working Style
+Optimistic • Organized • High-Agency • Accountable • Curious • Entrepreneurial • Team Player with a coach attitude • Leadership Mindset
+
+---
+
+I aim to build systems that are simple for users, scalable for teams, and performant by design — where engineering excellence meets meaningful product impact.
